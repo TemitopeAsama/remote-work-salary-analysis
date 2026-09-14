@@ -1,4 +1,4 @@
-# Remote Work & Salary Analysis
+# Remote Work & Salary Analysis (Data Science Blog Post Project — Udacity)
 
 ---
 
