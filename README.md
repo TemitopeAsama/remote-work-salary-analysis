@@ -3,6 +3,8 @@
 
 Analyzing whether remote work status predicts developer salary, using the Stack Overflow Developer Survey.
 
+**Link to blog post:** [Are Remote Workers Paid More? Here’s What the Data Says](https://medium.com/@lere.asama/are-remote-workers-paid-more-e3078e7a74d9)
+
 
 ## Motivation
 
